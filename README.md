@@ -1,4 +1,4 @@
-# Print-the-contents-of-the-current-window
+# Print the contents of the Current Window
  A JavaScript function to print the contents of the current window.
 ## Installation
 - All the `code` required to get started.
